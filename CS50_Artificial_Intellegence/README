@@ -1,3 +1,0 @@
-<h1>Predicting User Purchasing Intent using Nearest-Neighbor Classifier<h1>
-
-<p>In this project, I developed a nearest-neighbor classifier to predict a user's purchasing intent on an online shopping website using machine learning. The classifier utilizes features such as the number of pages visited, shopping on weekends, and web browser used to make predictions. The model was trained and evaluated using a dataset of 12,000 user sessions, measuring accuracy using sensitivity and specificity metrics. I achieved a high level of accuracy in determining user's purchase intent, with a reasonable balance between sensitivity and specificity.</p>
